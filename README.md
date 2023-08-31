@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/breno-perricone-fischer-191964129/">
+    <a href="https://www.linkedin.com/in/brenoperricone/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://breno-perricone.netlify.app/">

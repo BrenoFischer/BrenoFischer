@@ -41,6 +41,7 @@
 ### :computer: Highlighted repositories/projects :
 
 <ul>
+  <li><a href="https://github.com/BrenoFischer/flamengo-titles">Flamengo Titles</a></li>
   <li><a href="https://github.com/BrenoFischer/gradys-gs">UAV Groundstation</a></li>
   <li><a href="https://github.com/BrenoFischer/Udemy-ReactJS">React Udemy Course Project (Crown Clothing)</a></li>
   <li><a href="https://github.com/BrenoFischer/vip-beauty-rooms">VIP Beauty Rooms</a></li>
